@@ -1,0 +1,1 @@
+{"name":"bimloading-diagramas","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"vite --host 0.0.0.0","build":"vite build","start":"vite --host 0.0.0.0"},"devDependencies":{"vite":"^6.4.0"}}
